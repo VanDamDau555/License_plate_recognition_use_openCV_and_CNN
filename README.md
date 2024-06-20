@@ -5,3 +5,9 @@ Create code of computer vision to recognition the motor plate and predict each l
 <p>- Printed house number</p>
 <p>- Printed letter</p>
 <p>- New collect cut letter from plate</p>
+
+<h3>Second process: using computer vision to recognition motor plate</h3>
+<p>Have exam in each code</p>
+
+<h3>Result</h3>
+<img src="./result/rs1" alt="Result 1">
