@@ -1,5 +1,6 @@
 # License-plate-recognition-use-openCV-and-CNN-model
 Create code use computer vision to recognition the motor plate and predict each letter and digit by CNN model
+<p>Note: I will not upload my model after training</p>
 <h3>First process: CNN model to predict letters and digits</h3>
 <h5>Used data:</h5>
 <p>- Printed house number</p>
