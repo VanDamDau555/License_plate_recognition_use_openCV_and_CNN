@@ -10,4 +10,6 @@ Create code of computer vision to recognition the motor plate and predict each l
 <p>Have exam in each code</p>
 
 <h3>Result</h3>
-<img src="./result/rs1" alt="Result 1">
+![rs1](https://github.com/VanDamDau555/-license-plate-recognition-use-openCV-and-CNN-model/assets/95405402/167f3a17-d313-4d1c-8005-8b8042c3a8d1)
+![rs2](https://github.com/VanDamDau555/-license-plate-recognition-use-openCV-and-CNN-model/assets/95405402/cb41d5ae-b89d-42ed-ba24-0b1e6941bdd5)
+
