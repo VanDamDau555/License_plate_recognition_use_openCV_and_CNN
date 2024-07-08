@@ -14,3 +14,5 @@ Create code use computer vision to recognition the motor plate and predict each 
 <img src="https://github.com/VanDamDau555/License_plate_recognition_use_openCV_and_CNN/blob/main/result/rs1.jpg">
 <img src="https://github.com/VanDamDau555/License_plate_recognition_use_openCV_and_CNN/blob/main/result/rs2.jpg">
 
+<h3>External process: Using Fast R-CNN of pytorch to training model can predict bounding of plate</h3>
+<p>I'm doing that now and add this for later</p>
